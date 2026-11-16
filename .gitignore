@@ -1,0 +1,5 @@
+wallet.txt
+state.json
+trades.log
+*.pyc
+__pycache__/
